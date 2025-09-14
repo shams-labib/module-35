@@ -11,5 +11,5 @@ const arrayOfObject = [
 
 // suppose ami oprer array of object theke sudhu oi phone guloi casci jegulor brand hosce apple, eta korar jonno khub sundor vabe filter use kore kaj korte pari
 
-const result = arrayOfObject.filter(product => product.brand === "samsung");
+const result = arrayOfObject.filter(product => product.brand === "");
 console.log(result)
